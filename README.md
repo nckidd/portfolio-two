@@ -1,11 +1,3 @@
-# Typefolio - NextJs Template
-
-#### Preview
-
- - [Demo](https://themewagon.github.io/Typefolio/)
-
-#### Download
- - [Download from ThemeWagon](https://themewagon.com/themes/Typefolio/)
 
 ## Getting Started
 

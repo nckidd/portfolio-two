@@ -17,7 +17,7 @@ const page = () => {
       <Divider/>
       <Experience/>
       <Divider/>
-      <Education/>
+      {/* <Education/> */}
       <Divider/>
       <ProjectOverview/>
       <Divider/>
