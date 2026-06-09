@@ -38,7 +38,7 @@ const InstagramLightbox = ({ tile, onClose }: LightboxProps) => {
             onClick={handleOverlayClick}
             className="fixed inset-0 z-50 flex items-center justify-center bg-black/80 backdrop-blur-sm px-4"
         >
-            <div className="relative flex flex-col max-w-xl w-1/3 bg-background border border-primary/10 shadow-2xl">
+            <div className="relative flex flex-col max-w-xl w-full sm:w-1/3 bg-background border border-primary/10 shadow-2xl">
                 {/* Close button */}
                 <button
                     onClick={onClose}
