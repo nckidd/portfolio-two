@@ -53,12 +53,12 @@ const educationData = [
 
 const projectOverview = {
     caseStudies: [
-        { name: "Kristin's Kitty Care", url: "/docs/case+study_kkc.pdf" },
-        { name: "Precious Pet Care", url: "#", comingSoon: true },
+        { name: "Kristin's Kitty Care", url: "/docs/SMM_Case+Studies.pdf" },
+        { name: "The Lipstick Effect", url: "/docs/SMM_Case+Studies.pdf"},
+        { name: "Haney Official", url: "/docs/SMM_Case+Studies.pdf"},
     ],
     sideProjects: [
-        { name: "Shoko", url: "https://nshoko.netlify.app" },
-        { name: "The Lipstick Effect", url: "#", comingSoon: true },
+        { name: "Shoko", url: "#", comingSoon: true  },
     ]
 };
 
